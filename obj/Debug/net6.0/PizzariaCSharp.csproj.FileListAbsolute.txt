@@ -1,0 +1,14 @@
+/Users/paulo/dev/csharp/PizzariaCSharp/bin/Debug/net6.0/PizzariaCSharp
+/Users/paulo/dev/csharp/PizzariaCSharp/bin/Debug/net6.0/PizzariaCSharp.deps.json
+/Users/paulo/dev/csharp/PizzariaCSharp/bin/Debug/net6.0/PizzariaCSharp.runtimeconfig.json
+/Users/paulo/dev/csharp/PizzariaCSharp/bin/Debug/net6.0/PizzariaCSharp.dll
+/Users/paulo/dev/csharp/PizzariaCSharp/bin/Debug/net6.0/PizzariaCSharp.pdb
+/Users/paulo/dev/csharp/PizzariaCSharp/obj/Debug/net6.0/PizzariaCSharp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/paulo/dev/csharp/PizzariaCSharp/obj/Debug/net6.0/PizzariaCSharp.AssemblyInfoInputs.cache
+/Users/paulo/dev/csharp/PizzariaCSharp/obj/Debug/net6.0/PizzariaCSharp.AssemblyInfo.cs
+/Users/paulo/dev/csharp/PizzariaCSharp/obj/Debug/net6.0/PizzariaCSharp.csproj.CoreCompileInputs.cache
+/Users/paulo/dev/csharp/PizzariaCSharp/obj/Debug/net6.0/PizzariaCSharp.dll
+/Users/paulo/dev/csharp/PizzariaCSharp/obj/Debug/net6.0/refint/PizzariaCSharp.dll
+/Users/paulo/dev/csharp/PizzariaCSharp/obj/Debug/net6.0/PizzariaCSharp.pdb
+/Users/paulo/dev/csharp/PizzariaCSharp/obj/Debug/net6.0/PizzariaCSharp.genruntimeconfig.cache
+/Users/paulo/dev/csharp/PizzariaCSharp/obj/Debug/net6.0/ref/PizzariaCSharp.dll
